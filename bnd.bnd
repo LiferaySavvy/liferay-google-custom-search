@@ -1,0 +1,4 @@
+Bundle-Name: liferay-google-custom-search
+Bundle-SymbolicName: com.liferaysavvy.google.customsearch
+Bundle-Version: 1.0.0
+Export-Package: com.liferaysavvy.google.customsearch.constants
