@@ -10,4 +10,4 @@ Update Liferay Home path in build.gradle file.
 * `gradle build`
 * `gradle deploy`
 ## Documentation 
-* http://www.liferaysavvy.com/2020/03/google-custom-search-liferay-7dxp-module.html
+* [Google Custom Search Liferay 7/DXP Module](http://www.liferaysavvy.com/2020/03/google-custom-search-liferay-7dxp-module.html) 
